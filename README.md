@@ -19,17 +19,14 @@ Here are some ideas to get you started:
 - 😄 pronouns: I'm at the end of old things ,ans the next year will still welcome flowers.
 - ⚡ Field of expertise: Embedded ,Electronics
 
-type=sub&spm=1000.2115.3001.5348" target="_blank">CSDN</a>
-- ⚡ fun fact: `Don't be a programmer, be a problem solver.`
-
 <table cellspacing="0" cellpadding="0" align="left">
   <tr align="center" valign="middle">
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinRepo&show_icons=true&count_private=true&hide=contribs&theme=graywhite"></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinRepo&langs_count=8&hide=html,css,scss,vue&layout=compact&theme=graywhite"></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=GongYiqiao&show_icons=true&count_private=true&hide=contribs&theme=graywhite"></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GongYiqiao&langs_count=8&hide=html,css,scss,vue&layout=compact&theme=graywhite"></td>
   </tr>
   <tr align="center">
     <td colspan="2">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=MartinRepo&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Experience,Issues">
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=GongYiqiaoo&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Experience,Issues">
     </td>
   </tr>
 </table>
