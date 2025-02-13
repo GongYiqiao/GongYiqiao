@@ -24,11 +24,6 @@ Here are some ideas to get you started:
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=GongYiqiao&show_icons=true&count_private=true&hide=contribs&theme=graywhite"></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GongYiqiao&langs_count=8&hide=html,css,scss,vue&layout=compact&theme=graywhite"></td>
   </tr>
-  <tr align="center">
-    <td colspan="2">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=GongYiqiaoo&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Repositories,Followers,Experience,Issues">
-    </td>
-  </tr>
 </table>
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinRepo/MartinRepo/output/github-contribution-grid-snake-dark.svg">
