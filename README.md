@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **GongYiqiao/GongYiqiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📑 personal pages: [gongyiqiao.github.io](https://gongyiqiao.github.io/) 
+- 📫 how to reach me: gongyiqiao@outlook.com
+- 😄 pronouns: I'm at the end of old things ,ans the next year will still welcome flowers.
+- ⚡ Field of expertise: Embedded ,Electronics
+
